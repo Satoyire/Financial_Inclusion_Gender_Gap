@@ -1,0 +1,13 @@
+name: SSAFIGGExplorer
+title: SSAFIGGExplorer
+username: mscity
+account: mscity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12012382
+bundleId: 8621478
+url: https://mscity.shinyapps.io/SSAFIGGExplorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Grad proj data Processing.R|Grad shiny.R
